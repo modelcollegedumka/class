@@ -1,9 +1,4 @@
----
----
 
-![book cover](static/images/mml-book-cover.jpg){:style="float: right"}
-
-Undergraduate Physics Lecture
 
 ##  Lectures for UG-Sem-I Physics Major
 
