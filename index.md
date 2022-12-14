@@ -16,4 +16,4 @@ Undergraduate Physics Lecture
 
 
 ## External resources
-Other  [resources](/https://sites.google.com/view/phy-lecture/notes).
+Other  [resources](https://sites.google.com/view/phy-lecture/notes).
